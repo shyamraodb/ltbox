@@ -1,1 +1,0 @@
-TRUNCATE TABLE main.iot_dashboard_airflow.bronze_sensors;
